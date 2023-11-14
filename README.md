@@ -14,6 +14,4 @@ I did work with a peer on this project.  Also with a tudor to get this to run pr
 Alot of this project came from code of a mini project and some code came from activities in the bootcamp.
 I did work with a peer on this project.  I also worked with a TA to help get this running.
 
-
-
 ![Alt text](image.png)
